@@ -14,4 +14,4 @@
 
 ## 참고사이트
 [자연어처리](https://insikk.github.io/awesome-korean-nlp/)
-
+[일본의 초고령사회의 고령친화정책](http://www.100news.kr/7172)
