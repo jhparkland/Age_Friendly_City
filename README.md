@@ -14,6 +14,17 @@
 
 #### 참고자료 : [한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
+### 국내 고령친화도시의 과거실패사례
+우리나라는 2007년 고령친화 모델 지역으로 4개의 지역이 선정되었지만 실질적인 변화를 가져오지 못했다. 우리는 이런 실패이유를 통해 더 개선된 고령친화도시를 설계할수있다.
+* 첫번째 이유 : 목적이 지역 활성화에 초점을 두고있었다.
+* 두번쨰 이유 : 적절한 예상지원이 따르지않아 실제적인 추진도 미흡하였다.
+* 세번째 이유 : 지역개발의 목표 선정, 실행과정,평가 등에 대한 가이드라인이나 지침도 없고 의료,
+                복지,고용, 교통 등 기본영역에 대한 논의도 기초적인 수준에 머무르고 있었다
+
+따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
+
+[참고 자료] (https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
+
 
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
