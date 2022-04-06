@@ -18,5 +18,3 @@
 ## 참고사이트
 [자연어처리](https://insikk.github.io/awesome-korean-nlp/)
 [공공데이터 포털](https://www.data.go.kr)
-
-
