@@ -41,7 +41,12 @@
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
 
 ## 데이터 저장소
-[부산시 어르신 맞춤형데이터 저장소](https://data.busan.go.kr/customData/list.nm?apitype=130)
+부산시 어르신 맞춤형 데이터
+1. [의료기관 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00001)
+2. [의료기기 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00002)
+3. [급식기관 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=3076438)
+4. [일자리 사업 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025)
+
 
 ## 데이터셋
 [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)
