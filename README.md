@@ -9,6 +9,11 @@
 ## 데이터 저장소
 [부산시 어르신 맞춤형데이터 저장소](https://data.busan.go.kr/customData/list.nm?apitype=130)
 
+서울복지포털 : (https://wis.seoul.go.kr/main.do)
+1. [어르신 의료복지시설](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_medicalWelfareFacility)
+2. [노인 여가시설](https://wis.seoul.go.kr/senior/service/leisure.do)
+3. [노인복지관 검색](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_communityCentre)
+
 ## 데이터셋
 [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)
 
