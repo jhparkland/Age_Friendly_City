@@ -5,7 +5,7 @@
 ### 고령친화도시 국제네트워크
 [고령친화도시 국제네트워크에 대해](https://afc.welfare.seoul.kr/afc/about/about.action): WHO 고령친화도시 가이드 8대 영역이 존재
 
-### 고령 친화적 도시 및 커뮤니티 개발에 대한 사례
+### 고령친화도시 및 커뮤니티 개발에 대한 사례
 [전 세계 연구 사례](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/)
 
 ## 정책 프레임워크
