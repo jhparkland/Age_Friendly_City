@@ -13,7 +13,8 @@
 
 
 #### 참고자료 : [한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
-
+### 해외 고령친화도시의 성공사례
+[참고자료] (https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/): 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구
 ### 국내 고령친화도시의 과거실패사례
 우리나라는 2007년 고령친화 모델 지역으로 4개의 지역이 선정되었지만 실질적인 변화를 가져오지 못했다. 우리는 이런 실패이유를 통해 더 개선된 고령친화도시를 설계할수있다.
 * 첫번째 이유 : 목적이 지역 활성화에 초점을 두고있었다.
