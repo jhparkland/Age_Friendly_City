@@ -24,7 +24,7 @@
 
 따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
 
-[참고 자료] (https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
+[참고 자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
 
 
 * 고령친화 도시란?
