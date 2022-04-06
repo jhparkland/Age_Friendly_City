@@ -3,6 +3,8 @@
 
 ## 수집현황
 
+
+
 #### 참고자료 : [한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
 
