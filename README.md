@@ -13,9 +13,6 @@
     적극적인 지원 및 서비스가 필요하다.
   
 
-
-
-
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
 
