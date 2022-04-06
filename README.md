@@ -3,6 +3,7 @@
 
 ## 수집현황
 [노인 복지관 협회 공개자료실](http://www.kaswcs.or.kr/bj_board/bjbrd_list.htm?board_id=0401)
+
 [통계청 장래인구 추계](https://kostat.go.kr/portal/korea/kor_nw/1/1/index.board?bmode=read&aSeq=415453)
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
