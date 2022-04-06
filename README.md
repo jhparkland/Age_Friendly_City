@@ -30,6 +30,5 @@
 ## 관련뉴스
 [고령친화도시(동아대)](http://www.busan.com/view/busan/view.php?code=2022040114332108171)
 
--고령층은 급변하는 디지털 금융환경에 서툴러 시간이 흐를 수록 금융기와 관련해서 접근이 어려움
-
-[고령친화도시(은행)](http://www.busan.com/view/busan/view.php?code=2022021419013200349)
+고령층은 급변하는 디지털 금융환경에 서툴러 시간이 흐를 수록 금융기와 관련해서 접근이 어려움
+고령친화도시(은행)(http://www.busan.com/view/busan/view.php?code=2022021419013200349)
