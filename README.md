@@ -33,8 +33,3 @@
 
 ## 참고사이트
 [자연어처리](https://insikk.github.io/awesome-korean-nlp/)
-
-## 해외의 고령친화도시 및 고령친화 정책
-[일본의 초고령사회의 고령친화정책](http://www.100news.kr/7172)
-
-[해외의 고령친화도시 정책 사례와 시사점](https://www.seoulsolution.kr/ko/content/2-%ED%95%B4%EC%99%B8%EC%9D%98-%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C-%EC%A0%95%EC%B1%85-%EC%82%AC%EB%A1%80%EC%99%80-%EC%8B%9C%EC%82%AC%EC%A0%90)
