@@ -12,9 +12,27 @@
   * 은퇴 후에 새로운 일자리를 찾을 수 있는 정보의 접근성문제, 세대 간에 공유할수 있는 프로그램 개발 등, 고령친화와 관련된 사회적 분위기와 정책적 기반이 지속적으로 유지될수 있게 하기 위함
 
 
-#### 참고자료 : [한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
+#### 참고자료 : [한국형 고령친화도시 점검척도 개발연구] (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
+
+
+### 고령친화적인 지역 사회 개발을 위한 주요 전략
+* 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
+  - 토지이용과 지역개발 과정 통합, 대안적 주거유형 및 서비스 개발, 대중교통 개선 등
+  
+* 건강한 라이프 스타일 유지
+  - 예방서비스에 대한 접근성 개선, 신체적 활동 기회 제공, 건강교육 등
+  
+* 서비스와 정보의 접근성을 확대
+  - 예방적인 정보 제공과 교육
+  - 병원과 재활기관을 포함한 서비스 간의 연계 확대
+ 
+#### [참고자료] (https://www.si.re.kr/si_download/42542/7066)
+
+
 ### 해외 고령친화도시의 성공사례
 [참고자료] (https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/): 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구
+
+
 ### 국내 고령친화도시의 과거실패사례
 우리나라는 2007년 고령친화 모델 지역으로 4개의 지역이 선정되었지만 실질적인 변화를 가져오지 못했다. 우리는 이런 실패이유를 통해 더 개선된 고령친화도시를 설계할수있다.
 * 첫번째 이유 : 목적이 지역 활성화에 초점을 두고있었다.
@@ -24,7 +42,7 @@
 
 따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
 
-[참고 자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
+[참고 자료] (https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
 
 
 * 고령친화 도시란?
