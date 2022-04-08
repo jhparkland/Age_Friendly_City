@@ -25,7 +25,7 @@
 * 해외 고령친화식품 시장
   * 일본은 고령친화식품과 비슷한 개념으로 ‘개호식품(介護食品, Care Food)’이 발달해 있으며, 2016년부터 씹기, 소화 작용에 어려움이 있는 고령자 중심의 개호식품 개념을 넘어 저영양 예방까지 대상을 넓혀 ‘스마일케어식’을 제도화 하였습니다.
 
-[출처] 대한민국 정책브리핑(www.korea.kr)
+[출처] (https://www.korea.kr/news/policyNewsView.do?newsId=156194729)
 
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
