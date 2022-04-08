@@ -65,7 +65,7 @@
 2. [의료기기 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00002)
 3. [급식기관 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=3076438)
 4. [일자리 사업 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025)
-5. [노인요양시설 현황] (https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15071152&contentId=10)
+5. [노인요양시설 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15071152&contentId=10)
 
 서울복지포털 : (https://wis.seoul.go.kr/main.do)
 1. [어르신 의료복지시설](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_medicalWelfareFacility)
