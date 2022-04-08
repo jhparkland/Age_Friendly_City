@@ -72,7 +72,7 @@
   | `사회참여와 및 일자리(Civic participation and employment)` | 고령자의 욕구에 따른 인적자원 개발, 자원봉사 및 취업기회의 제공·확대를 통한 시민 참여활동 독려 및 지역사회 공헌 구현 |
   | `사회적 존중 및 통합(Respect and social inclusion)` | 고령자 공공이미지 향상을 위해 초중등 교육내용 반영 및 대중언론 매체 활용, 지역사회 내 고령자 욕구에 따른 역할 강화 등을 통해 세대간 통합 제고 |
   | `의사소통 및 정보(Communication and information)` | 고령자의 특성을 반영한 다양한 정보제공체계 구축 및 접근성 강화를 통해 사회적 활동 및 인간관계 활성화 |
-  | `강 및 지역사회 돌봄(Community support and health services)` | 고령자를 위한 지역사회서비스 및 의료서비스의 충분성, 적절성, 접근성, 질적 강화를 통해 고령자의 건강 및 자립 증대|
+  | `건강 및 지역사회 돌봄(Community support and health services)` | 고령자를 위한 지역사회서비스 및 의료서비스의 충분성, 적절성, 접근성, 질적 강화를 통해 고령자의 건강 및 자립 증대|
 
 **참고자료:** [고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 
