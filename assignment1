@@ -1,1 +1,22 @@
+# 과제 1-1 : 기존 OSS 저장소에 대한 특징 및 문제점 분석
+기존 저장소에 대한 문제점 도출
+개인/팀 문서로, 문제점 및 기여할 부분에 대해 작성
+혹은 new issue로 중요한 부분에 대해 작성하여 Branch 생성
+지속적으로 제시하는 issue는 별도 저장 및 관리
 
+## 교수님 의견
+Tip#1: 한번에 정리하고 목적에 따라 쉽게 접근할 수 있는 곳을 보여주기
+Tip#2: 국내외 가리지 않고 자료 수집하기
+Tip#3: 고령친화 도시에 대한 방향 및 프로젝트 제안도 가능
+Tip#4: 상단의 요약 통계표 (데이터셋의 수, 관련 문헌, 관련 기관의 수 등)
+
+문제점
+-> 기존 국내 정부 주관 OSS 저장소(https://www.data.go.kr/)에서 데이터별 카테고리화/정보 제공은 많이 진척된 상황이나, 
+아직 이러한 데이터를 그래프화 혹은 가시적인 측면을 고려한 시각화 부분은 진행이 미약한 것으로 판단 된다.
+그러므로, 우리는 시각화에 기여할 수 있는 방안을 모색 할 예정
+
+### 
+WHO Age-friendly Cities Framework: WHO 고령친화 세계에 대한 도시정책 프레임워크 https://extranet.who.int/agefriendlyworld/
+부산시 어르신 맞춤형데이터 저장소 https://data.busan.go.kr/customData/list.nm?apitype=130
+전국건강증진센터표준데이터 https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034
+자연어처리 https://insikk.github.io/awesome-korean-nlp/
