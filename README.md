@@ -11,7 +11,7 @@
   * 사회적 약자로 분류된 노인을 위해 사회복지서비스 및 생활환경 조성을 하는 것을 주목적으로 하는 측면에서 정의계획의 범주에 포함
   * 은퇴 후에 새로운 일자리를 찾을 수 있는 정보의 접근성문제, 세대 간에 공유할수 있는 프로그램 개발 등, 고령친화와 관련된 사회적 분위기와 정책적 기반이 지속적으로 유지될수 있게 하기 위함
 
-#### 참고자료 : [한국형 고령친화도시 점검척도 개발연구] (https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
+[한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
 ### 고령친화적인 지역 사회 개발을 위한 주요 전략
 * 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
@@ -24,11 +24,11 @@
   - 예방적인 정보 제공과 교육
   - 병원과 재활기관을 포함한 서비스 간의 연계 확대
  
-#### [참고자료] (https://www.si.re.kr/si_download/42542/7066)
+[참고자료](https://www.si.re.kr/si_download/42542/7066)
 
 
 ### 해외 고령친화도시의 성공사례
-[참고자료] (https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/): 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구
+[참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/): 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구
 
 
 ### 국내 고령친화도시의 과거실패사례
@@ -40,7 +40,7 @@
 
 따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
 
-[참고 자료] (https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
+[참고 자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
 
 
 * 고령친화 도시란?
@@ -52,7 +52,7 @@
     특히 사회적 약자인 노인들에게 있어 더욱 불편하기에 누구든지 지금의 삶에 불편없이 살아 갈 수 있도록 
     적극적인 지원 및 서비스가 필요하다.
 
-참고자료: [고령친화도시의 개념과 조성의 필요성](http://afc.bswdi.re.kr/Main.do)
+[고령친화도시의 개념과 조성의 필요성](http://afc.bswdi.re.kr/Main.do)
 
 ### 고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)
 
@@ -73,7 +73,7 @@
   | `의사소통 및 정보(Communication and information)` | 고령자의 특성을 반영한 다양한 정보제공체계 구축 및 접근성 강화를 통해 사회적 활동 및 인간관계 활성화 |
   | `건강 및 지역사회 돌봄(Community support and health services)` | 고령자를 위한 지역사회서비스 및 의료서비스의 충분성, 적절성, 접근성, 질적 강화를 통해 고령자의 건강 및 자립 증대|
 
-**참고자료:** [고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
+[고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 
 
 ### 고령친화식품
@@ -88,7 +88,7 @@
 * 해외 고령친화식품 시장
   * 일본은 고령친화식품과 비슷한 개념으로 ‘개호식품(介護食品, Care Food)’이 발달해 있으며, 2016년부터 씹기, 소화 작용에 어려움이 있는 고령자 중심의 개호식품 개념을 넘어 저영양 예방까지 대상을 넓혀 ‘스마일케어식’을 제도화 하였음
 
-#### 참고자료: [대한민국 정책브리핑](https://www.korea.kr/news/policyNewsView.do?newsId=156194729)
+[대한민국 정책브리핑](https://www.korea.kr/news/policyNewsView.do?newsId=156194729)
 
 ## 정책자료
 
@@ -96,24 +96,24 @@
 * 기초연금이란?  
   * 우리나라 만 65세 이상 소득·재산수준(소득인정액)이 선정기준액 이하인 노인에게 매월 일정금액의 연금을 제공한다. 노인의 생활 안정을 지원하고 복지 증진을 목적으로 2014년 7월부터 시행 중이다.  
 * 수령금액
-  * 월 최대 307,500원 (산정기준: http://basicpension.mohw.go.kr/Nfront_info/basic_pension_3.jsp)
+  * 월 최대 307,500원 ([산정기준](http://basicpension.mohw.go.kr/Nfront_info/basic_pension_3.jsp) )
 
-[참고자료] (http://basicpension.mohw.go.kr/Nfront_info/basic_pension_1.jsp)
+[참고자료](http://basicpension.mohw.go.kr/Nfront_info/basic_pension_1.jsp)
 
 
 ## 정책 프레임워크
-[WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
+[WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/)
 
-http://jthink.kr/jthink/2018/inner.php?sMenu=B1000&mode=view&no=304 : 전라북도 고령친화도시
+[전라북도 고령친화도시](http://jthink.kr/jthink/2018/inner.php?sMenu=B1000&mode=view&no=304)
 
-http://afc.bswdi.re.kr/Main.do : 부산의 고령친화도시
+[부산의 고령친화도시](http://afc.bswdi.re.kr/Main.do)
 
-https://www.sejong.go.kr/citizen/sub05_0401.do : 세종시청의 고령친화도시
+[세종시청의 고령친화도시](https://www.sejong.go.kr/citizen/sub05_0401.do)
 
-https://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf : 해외의 고령친화도시
+[해외의 고령친화도시](ttps://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf)
 
-https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5 : who 고령친화도시 국제네트워크
-
+[ who 고령친화도시 국제네트워크
+](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 ## 데이터 저장소
 부산시 어르신 맞춤형 데이터
 1. [의료기관 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00001)
@@ -122,7 +122,7 @@ https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtl
 4. [일자리 사업 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025)
 5. [노인요양시설 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15071152&contentId=10)
 
-서울복지포털 : (https://wis.seoul.go.kr/main.do)
+[서울복지포털](https://wis.seoul.go.kr/main.do)
 1. [어르신 의료복지시설](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_medicalWelfareFacility)
 2. [노인 여가시설](https://wis.seoul.go.kr/senior/service/leisure.do)
 3. [노인복지관 검색](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_communityCentre)
@@ -132,13 +132,13 @@ https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtl
 2. [부산광역시_경로당 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15037825&contentId=10)
 
 ## 개선
-http://repository.kihasa.re.kr/bitstream/201002/31315/1/%EA%B1%B4%EA%B0%95%EB%85%B8%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%85%B8%EC%9D%B8%20%EC%B9%9C%ED%99%94%EC%A0%81%20%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%9C%EA%B3%B5%20%EB%B0%A9%EC%95%88.pdf : 노인 친화적 보건의료서비스
+[노인 친화적 보건의료서비스](http://repository.kihasa.re.kr/bitstream/201002/31315/1/%EA%B1%B4%EA%B0%95%EB%85%B8%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%85%B8%EC%9D%B8%20%EC%B9%9C%ED%99%94%EC%A0%81%20%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%9C%EA%B3%B5%20%EB%B0%A9%EC%95%88.pdf) 
 
-http://www.100ssd.co.kr/news/articleView.html?idxno=16600 : 고령친화자동차
+[고령친화자동차](http://www.100ssd.co.kr/news/articleView.html?idxno=16600)
 
-http://repository.kihasa.re.kr/bitstream/201002/7743/1/%EC%97%B0%EA%B5%AC_2011-37-14.pdf : 고령친화여가생활
+[고령친화여가생활](http://repository.kihasa.re.kr/bitstream/201002/7743/1/%EC%97%B0%EA%B5%AC_2011-37-14.pdf)
 
-https://mediahub.seoul.go.kr/archives/1299893 : 어르신 맞춤형 휴대폰
+[어르신 맞춤형 휴대폰](https://mediahub.seoul.go.kr/archives/1299893)
 
 ## 참고사이트
 
