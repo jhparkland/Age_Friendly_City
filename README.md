@@ -103,11 +103,11 @@
 3. [노인복지관 검색](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_communityCentre)
 
 ## 데이터셋
-[전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)  
-[부산광역시_경로당 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15037825&contentId=10)
+1. [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)  
+2. [부산광역시_경로당 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15037825&contentId=10)
 
 ## 참고사이트
-[자연어처리](https://insikk.github.io/awesome-korean-nlp/)   
-[마이크로데이터통합서비스](https://mdis.kostat.go.kr/wsearch/wsearch.do)
-
+1. [자연어처리](https://insikk.github.io/awesome-korean-nlp/)   
+2. [마이크로데이터통합서비스](https://mdis.kostat.go.kr/wsearch/wsearch.do/) 
+3. [공공데이터 포털](https://www.data.go.kr)
 
