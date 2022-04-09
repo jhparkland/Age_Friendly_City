@@ -76,6 +76,16 @@
 
 **참고자료:** [고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 
+## 정책자료
+### 기초연금  
+* 기초연금이란?  
+  * 우리나라 만 65세 이상 소득·재산수준(소득인정액)이 선정기준액 이하인 노인에게 매월 일정금액의 연금을 제공한다. 노인의 생활 안정을 지원하고 복지 증진을 목적으로 2014년 7월부터 시행 중이다.  
+* 수령금액
+  * 월 최대 307,500원 (산정기준: http://basicpension.mohw.go.kr/Nfront_info/basic_pension_3.jsp)
+
+[참고자료] (http://basicpension.mohw.go.kr/Nfront_info/basic_pension_1.jsp)
+
+
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
 
