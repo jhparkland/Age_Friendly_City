@@ -58,6 +58,21 @@
 
 **참고자료:** [고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 
+### 지방자치단체별 고령친화도시 정책 및 현황
+
+| 지방자치단체 | 정책 및 현황 |
+|---|:---:|
+| `강원도` | 유형(기준) 없음 / 배치 불가능 |
+| `서울,경기도` | 요소 자신을 기준으로 배치 |
+| `경상남도` | [동아대-부산 서구청, 고령친화도시 조성 위한 업무협약 체결](http://www.busan.com/view/busan/view.php?code=2022040114332108171) |
+| `경상북도` | 브라우저 창을 기준으로 배치 |
+| `전라남도` | 브라우저 창을 기준으로 배치 |
+| `전라북도` | 브라우저 창을 기준으로 배치 |
+| `충청남도` | [충남 부여군 ‘WHO 고령친화도시’ 인증 획득](http://daily.hankooki.com/news/articleView.html?idxno=802305) |
+| `충청북도` | 브라우저 창을 기준으로 배치 |
+| `제주특별자치도` | [제주도, WHO 고령친화도시 국제네트워크 가입](http://www.jejusori.net/news/articleView.html?idxno=193662)<br/>[제주도, 5년간 WHO 고령친화도시 제2기 실행계획 45개 사업 추진](http://www.headlinejeju.co.kr/news/articleView.html?idxno=436711) |
+
+
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
 
