@@ -127,9 +127,6 @@
 2. [노인 여가시설](https://wis.seoul.go.kr/senior/service/leisure.do)
 3. [노인복지관 검색](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_communityCentre)
 
-## 데이터셋
-1. [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)  
-2. [부산광역시_경로당 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15037825&contentId=10)
 
 ## 개선
 [노인 친화적 보건의료서비스](http://repository.kihasa.re.kr/bitstream/201002/31315/1/%EA%B1%B4%EA%B0%95%EB%85%B8%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%85%B8%EC%9D%B8%20%EC%B9%9C%ED%99%94%EC%A0%81%20%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%9C%EA%B3%B5%20%EB%B0%A9%EC%95%88.pdf) 
