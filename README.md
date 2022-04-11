@@ -113,18 +113,7 @@
 
 [ who 고령친화도시 국제네트워크
 ](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
-## 데이터 저장소
-부산시 어르신 맞춤형 데이터
-1. [의료기관 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00001)
-2. [의료기기 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00002)
-3. [급식기관 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=3076438)
-4. [일자리 사업 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025)
-5. [노인요양시설 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15071152&contentId=10)
 
-[서울복지포털](https://wis.seoul.go.kr/main.do)
-1. [어르신 의료복지시설](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_medicalWelfareFacility)
-2. [노인 여가시설](https://wis.seoul.go.kr/senior/service/leisure.do)
-3. [노인복지관 검색](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_communityCentre)
 
 ## 데이터셋
 1. [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)  
