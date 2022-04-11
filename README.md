@@ -92,7 +92,5 @@
 
 
 
-## 데이터셋
-1. [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)  
-2. [부산광역시_경로당 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15037825&contentId=10)
+
 
