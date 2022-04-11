@@ -105,21 +105,3 @@
 1. [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)  
 2. [부산광역시_경로당 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15037825&contentId=10)
 
-## 개선
-[노인 친화적 보건의료서비스](http://repository.kihasa.re.kr/bitstream/201002/31315/1/%EA%B1%B4%EA%B0%95%EB%85%B8%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%85%B8%EC%9D%B8%20%EC%B9%9C%ED%99%94%EC%A0%81%20%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%9C%EA%B3%B5%20%EB%B0%A9%EC%95%88.pdf) 
-
-[고령친화자동차](http://www.100ssd.co.kr/news/articleView.html?idxno=16600)
-
-[고령친화여가생활](http://repository.kihasa.re.kr/bitstream/201002/7743/1/%EC%97%B0%EA%B5%AC_2011-37-14.pdf)
-
-[어르신 맞춤형 휴대폰](https://mediahub.seoul.go.kr/archives/1299893)
-
-## 참고사이트
-
-1. [자연어처리](https://insikk.github.io/awesome-korean-nlp/)   
-2. [마이크로데이터통합서비스](https://mdis.kostat.go.kr/wsearch/wsearch.do)
-
-1. [자연어처리](https://insikk.github.io/awesome-korean-nlp/)   
-2. [마이크로데이터통합서비스](https://mdis.kostat.go.kr/wsearch/wsearch.do/) 
-3. [공공데이터 포털](https://www.data.go.kr)
-
