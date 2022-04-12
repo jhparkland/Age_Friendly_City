@@ -38,6 +38,6 @@ These are the top 25 most age-friendly cities to retire:
 - 25cites
  
 #### References
-[The Street](https://www.thestreet.com/personal-finance/the-most-age-friendly-city-to-retire-15090494#gid=ci0256b22450002716&pid=5-fort-lauderdale-fla)
-[Age Friendly Advisor](https://www.agefriendly.org/)
-[Milken Institute](https://milkeninstitute.org/)
+- [The Street](https://www.thestreet.com/personal-finance/the-most-age-friendly-city-to-retire-15090494#gid=ci0256b22450002716&pid=5-fort-lauderdale-fla)
+- [Age Friendly Advisor](https://www.agefriendly.org/)
+- [Milken Institute](https://milkeninstitute.org/)
