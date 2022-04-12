@@ -1,9 +1,0 @@
-# 22.04.05 TUE
-1. 'branch' 라는 깃허브 용어를 새로 배웠다.
-2. 아직 'merge', 'pull request'의 정확한 동작, 의미를 이해하지 못했다.
-
-# 22.04.06 WED
-1. 새로운 branch를 만들어 필요하다 생각하는 파일(LICENSE)을 추가하여 pull request, merge 까지 진행해보았다.
-2. pull request의 의미, merge를 실행해보며 의미를 익혔다.
-3. 현재는 학생들을 위한 테스트 상태로, 모두가 collaborator의 자격으로 pull request, merge가 가능한 상태이다.
-4. 그러나 통상적으로 현업에서는 A가 pull request로 수정한 파일 적용을 요청을 하면 관리자가 이를 Merge 즉, 수락하여 반영하는 형태이다.
