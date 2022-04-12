@@ -51,7 +51,8 @@
 
  
 
-### [고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)](https://github.com/pwjdgus/Age_Friendly_City/blob/main/%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%EA%B5%AD%EC%A0%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+### 고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)
+[참고자료](https://github.com/pwjdgus/Age_Friendly_City/blob/main/%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%EA%B5%AD%EC%A0%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
 ### 지방자치단체별 고령친화도시 정책 및 현황
 
