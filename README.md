@@ -75,7 +75,7 @@
 [고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 
 **세계보건기구(who) 고령친화도시 국제네트워크 가입현황**
-[국제네트워크 가입현황](https://apps.who.int/agefriendlycitiesmap/)
+ - [국제네트워크 가입현황](https://apps.who.int/agefriendlycitiesmap/)
  - [국내 지자체 가입리스트](https://extranet.who.int/agefriendlyworld/search-network/?_sft_countries=republic-of-korea)
 
 ### 고령친화식품
