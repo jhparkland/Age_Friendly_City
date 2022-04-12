@@ -13,12 +13,14 @@
 
 [한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
+
 * 고령친화도시 조성의 필요성
   * 급속한 고령화에 따른 환경 및 삶의 급격함 변화를 지금의 도시기반 시설이 따라가지 못하며 
     특히 사회적 약자인 노인들에게 있어 더욱 불편하기에 누구든지 지금의 삶에 불편없이 살아 갈 수 있도록 
     적극적인 지원 및 서비스가 필요하다.
 
 [고령친화도시의 개념과 조성의 필요성](http://afc.bswdi.re.kr/Main.do)
+
 
 ### 고령친화적인 지역 사회 개발을 위한 주요 전략
 * 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
