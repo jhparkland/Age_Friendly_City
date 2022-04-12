@@ -26,16 +26,16 @@
 -
 
 ## 정책 프레임워크
-[WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
+WHO Age-friendly Cities Framework:(https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
 
 ## 데이터 저장소
-[부산시 어르신 맞춤형데이터 저장소](https://data.busan.go.kr/customData/list.nm?apitype=130)
+부산시 어르신 맞춤형데이터 저장소:(https://data.busan.go.kr/customData/list.nm?apitype=130)
 
 ## 데이터셋
-[전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)
+전국건강증진센터표준데이터:(https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)
 
 ## 참고사이트
-자연어처리(https://insikk.github.io/awesome-korean-nlp/)
+자연어처리:(https://insikk.github.io/awesome-korean-nlp/)
 
 ## 관련논문
 [고령친화형 도시개발정책에 관한 연구 : 도시재생정책을 중심으로 = (A)study on senior-friendly urban development policy]
