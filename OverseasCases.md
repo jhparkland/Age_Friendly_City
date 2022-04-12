@@ -1,4 +1,4 @@
-# Case 1 - America
+# Case - America
 ## The Best Age-Friendly Cities to Retire In
 
 These communities are making life easier for retirees by offering 
