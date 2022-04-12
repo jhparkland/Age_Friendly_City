@@ -51,7 +51,7 @@
 
  
 
-### 고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)
+### [고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)](https://github.com/pwjdgus/Age_Friendly_City/blob/main/%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%EA%B5%AD%EC%A0%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
 * **고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)** <br/>전 세계적인 고령화와 도시화 추세에 더욱 효과적으로 대응해나가기 위해 세계보건기구(WHO)에 의해 2007년부터 추진되어온 프로젝트로서, 2022년 현재 47개국 1333개 도시가 회원으로 가입되어 있다.  
 <br/>GNAFCC의 회원이 된다는 것은 인증과 다른 개념으로 해당 도시가 당면한 고령화와 관련된 문제의 대응 방안을 마련하고 해결 노력을 지속해서 기울이고 있다는 점을 인정받는 것이다. 더 나아가서는 다른 도시들의우수한 사례와 경험을 공유하는 등 국제적정보 교류의 장에 참여할 수 있는 기회를 부여받는다
