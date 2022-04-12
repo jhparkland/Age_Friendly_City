@@ -46,7 +46,7 @@ WHO Age-friendly Cities Framework:(https://extranet.who.int/agefriendlyworld/): 
 [고령친화도시(은행)](http://www.busan.com/view/busan/view.php?code=2022021419013200349)
 
 
-6
-7
-8
-10
+18-6,
+19-7,
+20-8,
+22-10
