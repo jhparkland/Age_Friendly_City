@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-Description
+**Description**
 설명
 
 **Additional context**
