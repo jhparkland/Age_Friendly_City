@@ -89,34 +89,7 @@
 
 [대한민국 정책브리핑](https://www.korea.kr/news/policyNewsView.do?newsId=156194729)
 
-## 정책자료
 
-기초연금  
-* 기초연금이란?  
-  * 우리나라 만 65세 이상 소득·재산수준(소득인정액)이 선정기준액 이하인 노인에게 매월 일정금액의 연금을 제공한다. 노인의 생활 안정을 지원하고 복지 증진을 목적으로 2014년 7월부터 시행 중이다.  
-* 수령금액
-  * 월 최대 307,500원 ([산정기준](http://basicpension.mohw.go.kr/Nfront_info/basic_pension_3.jsp) )
-
-[참고자료](http://basicpension.mohw.go.kr/Nfront_info/basic_pension_1.jsp)
-
-
-### 지방자치단체별 고령친화도시 정책 및 현황
-
-[지방자치단체별 고령친화도시 정책 및 현황.md](https://github.com/pwjdgus/Age_Friendly_City/blob/nsbranch2/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%EB%B3%84%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%ED%98%84%ED%99%A9.md)
-
-## 정책 프레임워크
-[WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/)
-
-[전라북도 고령친화도시](http://jthink.kr/jthink/2018/inner.php?sMenu=B1000&mode=view&no=304)
-
-[부산의 고령친화도시](http://afc.bswdi.re.kr/Main.do)
-
-[세종시청의 고령친화도시](https://www.sejong.go.kr/citizen/sub05_0401.do)
-
-[해외의 고령친화도시](ttps://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf)
-
-[ who 고령친화도시 국제네트워크
-](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 ## 데이터 저장소
 부산시 어르신 맞춤형 데이터
 1. [의료기관 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00001)
