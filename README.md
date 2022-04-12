@@ -35,7 +35,7 @@
 [전국건강증진센터표준데이터](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_SS00034)
 
 ## 참고사이트
-[자연어처리](https://insikk.github.io/awesome-korean-nlp/)
+자연어처리(https://insikk.github.io/awesome-korean-nlp/)
 
 ## 관련논문
 [고령친화형 도시개발정책에 관한 연구 : 도시재생정책을 중심으로 = (A)study on senior-friendly urban development policy]
