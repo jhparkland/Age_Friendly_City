@@ -74,25 +74,6 @@
 
 [고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 
-
-### 고령친화식품
-* 고령친화식품의 필요성
-  
-  * 고령자는 고령화에 따라 씹는 기능, 소화기능 등이 저하되어 식생활에 어려움을 겪거나 만성질환을 앓고 있는 경우가 많아 건강증진, 노후생활의 질 개선 등을 위해서는 식품산업에서도 고령자 대상 제품에 대한 많은 관심이 필요함
-
-* 고령친화식품의 종류
-
-  * 주요 식품군으로는 건강기능식품, 특수용도식품, 두부류·묵류, 전통·발효식품, 인삼·홍삼제품이 있음
-
-* 해외 고령친화식품 시장
-  * 일본은 고령친화식품과 비슷한 개념으로 ‘개호식품(介護食品, Care Food)’이 발달해 있으며, 2016년부터 씹기, 소화 작용에 어려움이 있는 고령자 중심의 개호식품 개념을 넘어 저영양 예방까지 대상을 넓혀 ‘스마일케어식’을 제도화 하였음
-
-[대한민국 정책브리핑](https://www.korea.kr/news/policyNewsView.do?newsId=156194729)
-
-
-
-
-
 ### 지방자치단체별 고령친화도시 정책 및 현황
 
 [지방자치단체별 고령친화도시 정책 및 현황.md](https://github.com/pwjdgus/Age_Friendly_City/blob/nsbranch2/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%EB%B3%84%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%ED%98%84%ED%99%A9.md)
