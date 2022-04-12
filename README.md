@@ -89,15 +89,8 @@
 
 [대한민국 정책브리핑](https://www.korea.kr/news/policyNewsView.do?newsId=156194729)
 
-## 정책자료
 
-기초연금  
-* 기초연금이란?  
-  * 우리나라 만 65세 이상 소득·재산수준(소득인정액)이 선정기준액 이하인 노인에게 매월 일정금액의 연금을 제공한다. 노인의 생활 안정을 지원하고 복지 증진을 목적으로 2014년 7월부터 시행 중이다.  
-* 수령금액
-  * 월 최대 307,500원 ([산정기준](http://basicpension.mohw.go.kr/Nfront_info/basic_pension_3.jsp) )
 
-[참고자료](http://basicpension.mohw.go.kr/Nfront_info/basic_pension_1.jsp)
 
 
 ### 지방자치단체별 고령친화도시 정책 및 현황
@@ -107,49 +100,3 @@
 ### 노령 정책현황
 [정책현황.md]
 (https://github.com/pwjdgus/Age_Friendly_City/blob/main/정책자료.md)
-
-## 정책 프레임워크
-[WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/)
-
-[전라북도 고령친화도시](http://jthink.kr/jthink/2018/inner.php?sMenu=B1000&mode=view&no=304)
-
-[부산의 고령친화도시](http://afc.bswdi.re.kr/Main.do)
-
-[세종시청의 고령친화도시](https://www.sejong.go.kr/citizen/sub05_0401.do)
-
-[해외의 고령친화도시](ttps://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf)
-
-[ who 고령친화도시 국제네트워크
-](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
-## 데이터 저장소
-부산시 어르신 맞춤형 데이터
-1. [의료기관 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00001)
-2. [의료기기 조회](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=OA_TT00002)
-3. [급식기관 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=3076438)
-4. [일자리 사업 현황](https://data.busan.go.kr/dataSet/detail.nm?contentId=10&publicdatapk=15034025)
-5. [노인요양시설 현황](https://data.busan.go.kr/dataSet/detail.nm?publicdatapk=15071152&contentId=10)
-
-[서울복지포털](https://wis.seoul.go.kr/main.do)
-1. [어르신 의료복지시설](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_medicalWelfareFacility)
-2. [노인 여가시설](https://wis.seoul.go.kr/senior/service/leisure.do)
-3. [노인복지관 검색](https://wis.seoul.go.kr/hope/customizedSearch.do?gbn=senior_communityCentre)
-
-
-## 개선
-[노인 친화적 보건의료서비스](http://repository.kihasa.re.kr/bitstream/201002/31315/1/%EA%B1%B4%EA%B0%95%EB%85%B8%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%85%B8%EC%9D%B8%20%EC%B9%9C%ED%99%94%EC%A0%81%20%EB%B3%B4%EA%B1%B4%EC%9D%98%EB%A3%8C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%A0%9C%EA%B3%B5%20%EB%B0%A9%EC%95%88.pdf) 
-
-[고령친화자동차](http://www.100ssd.co.kr/news/articleView.html?idxno=16600)
-
-[고령친화여가생활](http://repository.kihasa.re.kr/bitstream/201002/7743/1/%EC%97%B0%EA%B5%AC_2011-37-14.pdf)
-
-[어르신 맞춤형 휴대폰](https://mediahub.seoul.go.kr/archives/1299893)
-
-## 참고사이트
-
-1. [자연어처리](https://insikk.github.io/awesome-korean-nlp/)   
-2. [마이크로데이터통합서비스](https://mdis.kostat.go.kr/wsearch/wsearch.do)
-
-1. [자연어처리](https://insikk.github.io/awesome-korean-nlp/)   
-2. [마이크로데이터통합서비스](https://mdis.kostat.go.kr/wsearch/wsearch.do/) 
-3. [공공데이터 포털](https://www.data.go.kr)
-
