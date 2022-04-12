@@ -15,8 +15,6 @@
 
 #### 참고자료 : [한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
-[노인 복지관 협회 공개자료실](http://www.kaswcs.or.kr/bj_board/bjbrd_list.htm?board_id=0401)
-[통계청 장래인구 추계](https://kostat.go.kr/portal/korea/kor_nw/1/1/index.board?bmode=read&aSeq=415453)
 ## 정책 프레임워크
 [WHO Age-friendly Cities Framework](https://extranet.who.int/agefriendlyworld/): WHO 고령친화 세계에 대한 도시정책 프레임워크
 
