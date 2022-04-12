@@ -8,13 +8,10 @@ assignees: ''
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+어떠한 버그인지 분명한고 간결한 설명.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+가능하다면, 문제 해결을 돕기 위해 스크린샷 첨부
 
 **Additional context**
-Add any other context about the problem here.
+추가 설명
