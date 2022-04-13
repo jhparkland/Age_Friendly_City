@@ -35,7 +35,7 @@
 
 
 ### 해외 고령친화도시의 성공사례
-[참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/): 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구
+고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))
 
 
 ### 국내 고령친화도시의 과거실패사례
