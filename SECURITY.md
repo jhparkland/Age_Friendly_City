@@ -38,4 +38,5 @@ process, involving the following steps:
   * Prepare fixes for all releases still under maintenance. These fixes
     will be released as fast as possible to NPM.
 
-Reference - [atmoist's github](https://github.com/atomist/samples/blob/master/SECURITY.md)
+Reference<br>
+- [atmoist's github](https://github.com/atomist/samples/blob/master/SECURITY.md)
