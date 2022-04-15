@@ -15,9 +15,9 @@ make every effort to acknowledge your contributions.
 
 Report security vulnerabilities by either emailing Age_Friendly_City OSS security team at:
     
-    dlalsdn76@donga.ac.kr // 수정필요
+    https://github.com/pwjdgus // 수정필요
 
-or making issues in the Issues section.
+or leaving your issue in the Issues section.
 The lead maintainer will acknowledge your email within 24 hours, and will
 send a more detailed response within 48 hours indicating the next steps in 
 handling your report. After the initial reply to your report, the security
