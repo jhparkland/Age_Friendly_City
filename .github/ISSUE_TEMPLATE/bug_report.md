@@ -11,7 +11,7 @@ assignees: ''
 ```
 어떠한 버그인지 분명한고 간결한 설명.
 ```
-**Screenshots**
+**Screenshots**<br>
 가능하다면, 문제 해결을 돕기 위해 스크린샷 첨부
 
 **Additional context**

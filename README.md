@@ -11,14 +11,13 @@
   * 사회적 약자로 분류된 노인을 위해 사회복지서비스 및 생활환경 조성을 하는 것을 주목적으로 하는 측면에서 정의계획의 범주에 포함
   * 은퇴 후에 새로운 일자리를 찾을 수 있는 정보의 접근성문제, 세대 간에 공유할수 있는 프로그램 개발 등, 고령친화와 관련된 사회적 분위기와 정책적 기반이 지속적으로 유지될수 있게 하기 위함
 
-[한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
-
 * 고령친화도시 조성의 필요성
   * 급속한 고령화에 따른 환경 및 삶의 급격함 변화를 지금의 도시기반 시설이 따라가지 못하며 
     특히 사회적 약자인 노인들에게 있어 더욱 불편하기에 누구든지 지금의 삶에 불편없이 살아 갈 수 있도록 
     적극적인 지원 및 서비스가 필요하다.
-
-[고령친화도시의 개념과 조성의 필요성](http://afc.bswdi.re.kr/Main.do)
+    
+한국형 고령친화도시 점검척도 개발연구([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02245398))<br>
+고령친화도시의 개념과 조성의 필요성([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
 
 ### 고령친화적인 지역 사회 개발을 위한 주요 전략
 * 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
@@ -31,12 +30,9 @@
   - 예방적인 정보 제공과 교육
   - 병원과 재활기관을 포함한 서비스 간의 연계 확대
  
-[참고자료](https://www.si.re.kr/si_download/42542/7066)
+서울의 고령친화도시 추진 전략([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
 
-
-### 해외 고령친화도시의 성공사례
-[참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/): 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구
-
+## 국내사례
 
 ### 국내 고령친화도시의 과거실패사례
 우리나라는 2007년 고령친화 모델 지역으로 4개의 지역이 선정되었지만 실질적인 변화를 가져오지 못했다. 우리는 이런 실패이유를 통해 더 개선된 고령친화도시를 설계할수있다.
@@ -47,7 +43,6 @@
 
 따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
 
-[참고 자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530)
 
 
 * **지자체별 고령친화도시 국제네트워크 가입 도시 현황**
@@ -79,7 +74,10 @@ pie
 
 
 ### 지방자치단체별 고령친화도시 정책 및 현황
-
 [지방자치단체별 고령친화도시 정책 및 현황](https://github.com/pwjdgus/Age_Friendly_City/blob/nsbranch2/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%EB%B3%84%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%ED%98%84%ED%99%A9.md)
 
+## 해외사례
 
+### 해외 고령친화도시 사례
+고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))<br>
+해외의 고령친화도시 정책 사례와 시사점([참고자료](https://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf))
