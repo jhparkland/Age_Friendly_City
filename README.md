@@ -16,7 +16,7 @@
     특히 사회적 약자인 노인들에게 있어 더욱 불편하기에 누구든지 지금의 삶에 불편없이 살아 갈 수 있도록 
     적극적인 지원 및 서비스가 필요하다.
     
-한국형 고령친화도시 점검척도 개발연구([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02245398))
+한국형 고령친화도시 점검척도 개발연구([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02245398))<br>
 고령친화도시의 개념과 조성의 필요성([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
 
 ### 고령친화적인 지역 사회 개발을 위한 주요 전략
@@ -103,5 +103,5 @@ pie
 ## 해외사례
 
 ### 해외 고령친화도시 사례
-고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))
+고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))<br>
 해외의 고령친화도시 정책 사례와 시사점([참고자료](https://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf))
