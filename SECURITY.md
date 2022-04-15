@@ -39,4 +39,4 @@ process, involving the following steps:
     will be released as fast as possible to NPM.
 
 Reference<br>
-<[atmoist's Security.md]>(https://github.com/atomist/samples/blob/master/SECURITY.md)
+[<atmoist's Security.md>](https://github.com/atomist/samples/blob/master/SECURITY.md)
