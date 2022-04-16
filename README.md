@@ -7,9 +7,15 @@
   * 기존의 도시환경을 고령 친화적환경으로 개선하는 것    
    
 * 고령친화 도시의 건설 이유
-  * 노인 인구의 지속적인 증가와 이로 인한 노인들의 욕구 증대를 지역 사회적 측면에서의 적극적으로 대응하기 위함
+  * 급속한 고령화에 따른 화경 및 삶의 급격한 변화를 지금의 도시기반 시설이 따라가지 못함
+  * 노인들의 욕구 증대를 지역 사회적 측면에서의 적극적으로 대응할 필요가 있음
   * 사회적 약자로 분류된 노인을 위해 사회복지서비스 및 생활환경 조성을 하는 것을 주목적으로 하는 측면에서 정의계획의 범주에 포함
   * 은퇴 후에 새로운 일자리를 찾을 수 있는 정보의 접근성문제, 세대 간에 공유할수 있는 프로그램 개발 등, 고령친화와 관련된 사회적 분위기와 정책적 기반이 지속적으로 유지될수 있게 하기 위함
+
+
+[한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
+
+[고령친화도시의 개념과 조성의 필요성](http://afc.bswdi.re.kr/Main.do)
 
 * 고령친화도시 조성의 필요성
   * 급속한 고령화에 따른 환경 및 삶의 급격함 변화를 지금의 도시기반 시설이 따라가지 못하며 
@@ -18,6 +24,7 @@
     
 한국형 고령친화도시 점검척도 개발연구([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02245398))<br>
 고령친화도시의 개념과 조성의 필요성([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
+
 
 ### 고령친화적인 지역 사회 개발을 위한 주요 전략
 * 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
@@ -32,6 +39,9 @@
  
 서울의 고령친화도시 추진 전략([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
 
+
+### [고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)](https://github.com/pwjdgus/Age_Friendly_City/blob/main/%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%EA%B5%AD%EC%A0%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+
 ## 국내사례
 
 ### 국내 고령친화도시의 과거실패사례
@@ -44,6 +54,7 @@
 따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
 
 서울의 고령친화도시 추진 전략([참고자료](https://www.si.re.kr/si_download/42542/7066))
+
 
 ### 고령친화도시 국제네트워크
 * **고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)** <br/>전 세계적인 고령화와 도시화 추세에 더욱 효과적으로 대응해나가기 위해 세계보건기구(WHO)에 의해 2007년부터 추진되어온 프로젝트로서, 2022년 현재 47개국 1333개 도시가 회원으로 가입되어 있다.  
