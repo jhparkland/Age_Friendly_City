@@ -12,9 +12,19 @@
   * 사회적 약자로 분류된 노인을 위해 사회복지서비스 및 생활환경 조성을 하는 것을 주목적으로 하는 측면에서 정의계획의 범주에 포함
   * 은퇴 후에 새로운 일자리를 찾을 수 있는 정보의 접근성문제, 세대 간에 공유할수 있는 프로그램 개발 등, 고령친화와 관련된 사회적 분위기와 정책적 기반이 지속적으로 유지될수 있게 하기 위함
 
+
 [한국형 고령친화도시 점검척도 개발연구](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE02245398&mark=0&useDate=&ipRange=N&accessgl=Y&language=ko_KR&hasTopBanner=true)
 
 [고령친화도시의 개념과 조성의 필요성](http://afc.bswdi.re.kr/Main.do)
+
+* 고령친화도시 조성의 필요성
+  * 급속한 고령화에 따른 환경 및 삶의 급격함 변화를 지금의 도시기반 시설이 따라가지 못하며 
+    특히 사회적 약자인 노인들에게 있어 더욱 불편하기에 누구든지 지금의 삶에 불편없이 살아 갈 수 있도록 
+    적극적인 지원 및 서비스가 필요하다.
+    
+한국형 고령친화도시 점검척도 개발연구([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02245398))<br>
+고령친화도시의 개념과 조성의 필요성([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
+
 
 ### 고령친화적인 지역 사회 개발을 위한 주요 전략
 * 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
@@ -27,14 +37,26 @@
   - 예방적인 정보 제공과 교육
   - 병원과 재활기관을 포함한 서비스 간의 연계 확대
  
-[참고자료](https://www.si.re.kr/si_download/42542/7066)
+서울의 고령친화도시 추진 전략([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
 
-
-### 해외 고령친화도시의 성공사례
-[참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/): 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구
 
 ### [고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)](https://github.com/pwjdgus/Age_Friendly_City/blob/main/%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%EA%B5%AD%EC%A0%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
+## 국내사례
+
+### 국내 고령친화도시의 과거실패사례
+우리나라는 2007년 고령친화 모델 지역으로 4개의 지역이 선정되었지만 실질적인 변화를 가져오지 못했다. 우리는 이런 실패이유를 통해 더 개선된 고령친화도시를 설계할수있다.
+* 첫 번째 이유 : 목적이 지역 활성화에 초점을 두고있었다.
+* 두 번째 이유 : 적절한 예상지원이 따르지않아 실제적인 추진도 미흡하였다.
+* 세 번째 이유 : 지역개발의 목표 선정, 실행과정,평가 등에 대한 가이드라인이나 지침도 없고 의료,
+                복지,고용, 교통 등 기본영역에 대한 논의도 기초적인 수준에 머무르고 있었다
+
+따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
+
+서울의 고령친화도시 추진 전략([참고자료](https://www.si.re.kr/si_download/42542/7066))
+
+
+### 고령친화도시 국제네트워크
 * **고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)** <br/>전 세계적인 고령화와 도시화 추세에 더욱 효과적으로 대응해나가기 위해 세계보건기구(WHO)에 의해 2007년부터 추진되어온 프로젝트로서, 2022년 현재 47개국 1333개 도시가 회원으로 가입되어 있다.  
 <br/>GNAFCC의 회원이 된다는 것은 인증과 다른 개념으로 해당 도시가 당면한 고령화와 관련된 문제의 대응 방안을 마련하고 해결 노력을 지속해서 기울이고 있다는 점을 인정받는 것이다. 더 나아가서는 다른 도시들의우수한 사례와 경험을 공유하는 등 국제적정보 교류의 장에 참여할 수 있는 기회를 부여받는다
 
@@ -54,7 +76,7 @@
   | `의사소통 및 정보(Communication and information)` | 고령자의 특성을 반영한 다양한 정보제공체계 구축 및 접근성 강화를 통해 사회적 활동 및 인간관계 활성화 |
   | `건강 및 지역사회 돌봄(Community support and health services)` | 고령자를 위한 지역사회서비스 및 의료서비스의 충분성, 적절성, 접근성, 질적 강화를 통해 고령자의 건강 및 자립 증대|
 
-[고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/) , [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
+[고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/), [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
 
 <br/>
 
@@ -87,7 +109,10 @@ pie
 
 
 ### 지방자치단체별 고령친화도시 정책 및 현황
-
 [지방자치단체별 고령친화도시 정책 및 현황](https://github.com/pwjdgus/Age_Friendly_City/blob/nsbranch2/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%EB%B3%84%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%ED%98%84%ED%99%A9.md)
 
+## 해외사례
 
+### 해외 고령친화도시 사례
+고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))<br>
+해외의 고령친화도시 정책 사례와 시사점([참고자료](https://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf))

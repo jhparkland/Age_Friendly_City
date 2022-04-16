@@ -6,8 +6,8 @@
  
 * 8개 영역별로 고령친화도시가 갖추어야 요소를 체크리스트로 제시
   * 8개 기본영역은 야외공간과 건물, 교통, 주거, 사회참여, 존경과 사회통합, 
-시민참여, 커뮤니케이션과 정보, 지역사회 지원과 건강서비스로 구성
+시민참여, 커뮤니케이션과 정보, 지역사회 지원과 건강서비스로 구성  
 
-[Global Age-friendly Cities: A Guide](https://user-images.githubusercontent.com/100742303/162965590-dae365dc-1a1e-4cc4-8fd9-78d31e7a7f60.png)
+  [고령친화성 체크리스트](https://github.com/pwjdgus/Age_Friendly_City/blob/JeMinMoon-patch-2/%EC%88%98%EC%A7%91%20%EC%9E%90%EB%A3%8C/WHO%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EC%84%B1%20%EC%A0%90%EA%B2%80%ED%95%AD%EB%AA%A9.md#who-%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EC%84%B1-%EC%A0%90%EA%B2%80%ED%95%AD%EB%AA%A9%EB%AC%BC%EB%A6%AC%EC%A0%81-%ED%99%98%EA%B2%BD%EB%B6%80%EB%AC%B8)
 
-참고문헌 : 서울, 노인이 살기좋은 도시인가?  /  김선자
+참고문헌: [서울, 노인이 살기좋은 도시인가?](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01990547)
