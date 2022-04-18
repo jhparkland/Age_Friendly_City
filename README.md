@@ -19,7 +19,7 @@
 ***
 한국형 고령친화도시 점검척도 개발연구([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02245398))<br>
 고령친화도시의 개념과 조성의 필요성([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
-
+***
 
 ### 고령친화적인 지역 사회 개발을 위한 주요 전략
 * 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
@@ -31,9 +31,9 @@
 * 서비스와 정보의 접근성을 확대
   - 예방적인 정보 제공과 교육
   - 병원과 재활기관을 포함한 서비스 간의 연계 확대
- 
+***
 서울의 고령친화도시 추진 전략([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
-
+***
 ## 국내사례
 
 ### 국내 고령친화도시의 과거실패사례
