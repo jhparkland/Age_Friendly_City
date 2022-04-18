@@ -44,9 +44,9 @@
                 복지,고용, 교통 등 기본영역에 대한 논의도 기초적인 수준에 머무르고 있었다
 
 따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
-
+***
 서울의 고령친화도시 추진 전략([참고자료](https://www.si.re.kr/si_download/42542/7066))
-
+***
 
 ### 고령친화도시 국제네트워크
 * **고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)** <br/>전 세계적인 고령화와 도시화 추세에 더욱 효과적으로 대응해나가기 위해 세계보건기구(WHO)에 의해 2007년부터 추진되어온 프로젝트로서, 2022년 현재 47개국 1333개 도시가 회원으로 가입되어 있다.  
@@ -101,14 +101,9 @@ pie
 
 
 ### 지방자치단체별 고령친화도시 정책 및 현황
-***
 [지방자치단체별 고령친화도시 정책 및 현황](https://github.com/pwjdgus/Age_Friendly_City/blob/nsbranch2/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%EB%B3%84%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%ED%98%84%ED%99%A9.md)
-***
 
 ## 해외사례
-
 ### 해외 고령친화도시 사례
-***
 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))<br>
 해외의 고령친화도시 정책 사례와 시사점([참고자료](https://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf))
-***
