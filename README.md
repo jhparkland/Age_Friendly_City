@@ -67,9 +67,9 @@
   | `사회적 존중 및 통합(Respect and social inclusion)` | 고령자 공공이미지 향상을 위해 초중등 교육내용 반영 및 대중언론 매체 활용, 지역사회 내 고령자 욕구에 따른 역할 강화 등을 통해 세대간 통합 제고 |
   | `의사소통 및 정보(Communication and information)` | 고령자의 특성을 반영한 다양한 정보제공체계 구축 및 접근성 강화를 통해 사회적 활동 및 인간관계 활성화 |
   | `건강 및 지역사회 돌봄(Community support and health services)` | 고령자를 위한 지역사회서비스 및 의료서비스의 충분성, 적절성, 접근성, 질적 강화를 통해 고령자의 건강 및 자립 증대|
-
+***
 [고령친화도시 국제네트워크](https://extranet.who.int/agefriendlyworld/), [세종시청 홈페이지](https://www.sejong.go.kr/citizen/sub05_0402.do;jsessionid=wDwIoFnTe2MfMCl1PxvJtlR7VXI8XfhwNdDVU2B68fOqf7Rq4UO43CtUPMx0YXMH.Portal_WAS2_servlet_engine5)
-
+***
 <br/>
 
 * **지자체별 고령친화도시 국제네트워크 가입 도시 현황**
@@ -101,10 +101,14 @@ pie
 
 
 ### 지방자치단체별 고령친화도시 정책 및 현황
+***
 [지방자치단체별 고령친화도시 정책 및 현황](https://github.com/pwjdgus/Age_Friendly_City/blob/nsbranch2/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%EB%B3%84%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%ED%98%84%ED%99%A9.md)
+***
 
 ## 해외사례
 
 ### 해외 고령친화도시 사례
+***
 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))<br>
 해외의 고령친화도시 정책 사례와 시사점([참고자료](https://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf))
+***
