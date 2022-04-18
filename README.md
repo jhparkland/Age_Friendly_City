@@ -16,7 +16,7 @@
   * 급속한 고령화에 따른 환경 및 삶의 급격한 변화를 지금의 도시기반 시설이 따라가지 못하며 
     특히 사회적 약자인 노인들에게 있어 더욱 불편하기에 누구든지 지금의 삶에 불편없이 살아 갈 수 있도록 
     적극적인 지원 및 서비스가 필요하다.
-    
+***
 한국형 고령친화도시 점검척도 개발연구([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02245398))<br>
 고령친화도시의 개념과 조성의 필요성([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
 
