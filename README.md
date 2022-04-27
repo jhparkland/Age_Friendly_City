@@ -2,36 +2,13 @@
 본 프로젝트는 고령친화 도시 설계를 위한 참고자료에 대한 유용한 리스트를 구축하고자 합니다. 고령친화 도시 설계와 관련된 데이터저장소, 데이터셋, 논문, 정책자료, 뉴스 등 다양한 유형의 국내외 유용한 자료를 한 곳에 모으고자 합니다. 큐레이트된 리스트(Curated list)는 고령친화 도시 설계를 위한 목적에 누구나 자유롭게 활용될 수 있습니다. 
 
 ## 수집현황
-* 고령친화 도시란? - [https://github.com/pwjdgus/Age_Friendly_City/wiki](https://github.com/pwjdgus/Age_Friendly_City/wiki)
-  * 노인을 중심으로 한 사회복지와 노인의 편의를 위한 도시정책이 융합된 지역사회
-  * 기존의 도시환경을 고령 친화적환경으로 개선하는 것
+* [고령친화 도시란?](https://github.com/pwjdgus/Age_Friendly_City/wiki)
 
-### 고령친화적인 지역 사회 개발을 위한 주요 전략
-* 시민의 요구와 선호 변화에 적절한 주거와 교통옵션 제공
-  - 토지이용과 지역개발 과정 통합, 대안적 주거유형 및 서비스 개발, 대중교통 개선 등
-  
-* 건강한 라이프 스타일 유지
-  - 예방서비스에 대한 접근성 개선, 신체적 활동 기회 제공, 건강교육 등
-  
-* 서비스와 정보의 접근성을 확대
-  - 예방적인 정보 제공과 교육
-  - 병원과 재활기관을 포함한 서비스 간의 연계 확대
-***
-서울의 고령친화도시 추진 전략([참고자료](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE02007530))
-***
-## 국내사례
+* [고령친화적인 지역 사회 개발을 위한 주요 전략](https://github.com/pwjdgus/Age_Friendly_City/wiki#%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94-%EB%8F%84%EC%8B%9C%EC%9D%98-%EA%B1%B4%EC%84%A4-%EC%9D%B4%EC%9C%A0)
 
-### 국내 고령친화도시의 과거실패사례
-우리나라는 2007년 고령친화 모델 지역으로 4개의 지역이 선정되었지만 실질적인 변화를 가져오지 못했다. 우리는 이런 실패이유를 통해 더 개선된 고령친화도시를 설계할수있다.
-* 첫 번째 이유 : 목적이 지역 활성화에 초점을 두고있었다.
-* 두 번째 이유 : 적절한 예상지원이 따르지않아 실제적인 추진도 미흡하였다.
-* 세 번째 이유 : 지역개발의 목표 선정, 실행과정,평가 등에 대한 가이드라인이나 지침도 없고 의료,
-                복지,고용, 교통 등 기본영역에 대한 논의도 기초적인 수준에 머무르고 있었다
+* [국내사례](https://github.com/pwjdgus/Age_Friendly_City/tree/main/%EC%82%AC%EB%A1%80/%EA%B5%AD%EB%82%B4%EC%82%AC%EB%A1%80)
 
-따라서 국제보건기구(WHO)의 고령친화도시 모델과 빌리지 모델등에 대한 검토를 통해 이들이 시사하는 바를 살펴볼 필요가 있다.
-***
-서울의 고령친화도시 추진 전략([참고자료](https://www.si.re.kr/si_download/42542/7066))
-***
+* [해외사례](https://github.com/pwjdgus/Age_Friendly_City/tree/main/%EC%82%AC%EB%A1%80/%ED%95%B4%EC%99%B8%EC%82%AC%EB%A1%80)
 
 ### 고령친화도시 국제네트워크
 * **고령친화도시 국제네트워크(Global Network of Age-Friendly Cities & Communities, GNAFCC)** <br/>전 세계적인 고령화와 도시화 추세에 더욱 효과적으로 대응해나가기 위해 세계보건기구(WHO)에 의해 2007년부터 추진되어온 프로젝트로서, 2022년 현재 47개국 1333개 도시가 회원으로 가입되어 있다.  
@@ -88,7 +65,3 @@ pie
 ### 지방자치단체별 고령친화도시 정책 및 현황
 [지방자치단체별 고령친화도시 정책 및 현황](https://github.com/pwjdgus/Age_Friendly_City/blob/nsbranch2/%EC%A7%80%EB%B0%A9%EC%9E%90%EC%B9%98%EB%8B%A8%EC%B2%B4%EB%B3%84%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EC%A0%95%EC%B1%85%20%EB%B0%8F%20%ED%98%84%ED%99%A9.md)
 
-## 해외사례
-### 해외 고령친화도시 사례
-- 고령친화도시 및 커뮤니티 개발: 전 세계 사례 연구([참고자료](https://extranet.who.int/agefriendlyworld/resources/age-friendly-case-studies/))<br>
-- 해외의 고령친화도시 정책 사례와 시사점([참고자료](https://www.seoulsolution.kr/sites/default/files/%EC%84%B8%EA%B3%84%EC%99%80%EB%8F%84%EC%8B%9C%2012%ED%98%B8%20%ED%8A%B9%EC%A7%912%20.pdf))
