@@ -2,7 +2,7 @@
 본 프로젝트는 고령친화 도시 설계를 위한 참고자료에 대한 유용한 리스트를 구축하고자 합니다. 고령친화 도시 설계와 관련된 데이터저장소, 데이터셋, 논문, 정책자료, 뉴스 등 다양한 유형의 국내외 유용한 자료를 한 곳에 모으고자 합니다. 큐레이트된 리스트(Curated list)는 고령친화 도시 설계를 위한 목적에 누구나 자유롭게 활용될 수 있습니다. 
 
 ## 수집현황
-* [고령친화 도시란?](https://github.com/pwjdgus/Age_Friendly_City/wiki)
+* 고령친화 도시란? - [https://github.com/pwjdgus/Age_Friendly_City/wiki](https://github.com/pwjdgus/Age_Friendly_City/wiki)
   * 노인을 중심으로 한 사회복지와 노인의 편의를 위한 도시정책이 융합된 지역사회
   * 기존의 도시환경을 고령 친화적환경으로 개선하는 것
 
