@@ -11,3 +11,7 @@
 * [해외사례](https://github.com/pwjdgus/Age_Friendly_City/tree/main/%EC%82%AC%EB%A1%80/%ED%95%B4%EC%99%B8%EC%82%AC%EB%A1%80)
 
 * [고령친화도시 국제네트워크](https://github.com/pwjdgus/Age_Friendly_City/blob/main/%EC%88%98%EC%A7%91%20%EC%9E%90%EB%A3%8C/%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%EA%B5%AD%EC%A0%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
+
+## Contributing guidelines
+
+All guidelines for contributing to the Age_Friendly_City repository can be found at [`How to contribute guideline`](https://github.com/pwjdgus/Age_Friendly_City/wiki/How-to-contribute).
