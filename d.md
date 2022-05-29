@@ -1,0 +1,1 @@
+* [수집자료](https://github.com/CECode/Age_Friendly_City/blob/main/%EC%88%98%EC%A7%91%20%EC%9E%90%EB%A3%8C/WHO%20%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%B0%8F%20%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8.md)
