@@ -14,4 +14,4 @@
 
 ## Contributing guidelines
 
-All guidelines for contributing to the Age_Friendly_City repository can be found at Wiki Page - [`Contributing guidelines`](https://github.com/pwjdgus/Age_Friendly_City/wiki/How-to-contribute](https://github.com/pwjdgus/Age_Friendly_City/wiki/Contribution-guideline).
+All guidelines for contributing to the Age_Friendly_City repository can be found at Wiki Page - [`Contributing guidelines`](https://github.com/pwjdgus/Age_Friendly_City/wiki/Contribution-guideline).
