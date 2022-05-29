@@ -13,5 +13,5 @@
 * [고령친화도시 국제네트워크](https://github.com/pwjdgus/Age_Friendly_City/blob/main/%EC%88%98%EC%A7%91%20%EC%9E%90%EB%A3%8C/%EA%B3%A0%EB%A0%B9%EC%B9%9C%ED%99%94%EB%8F%84%EC%8B%9C%EA%B5%AD%EC%A0%9C%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.md)
 
 ## 기여 가이드라인(Contributing guidelines)
-Age_Friendly_City 저장소로의 기여에 관한 모든 가이드라인 위키 페이지 - ['기여 가이드라인(Contributing guidelines)'](https://github.com/pwjdgus/Age_Friendly_City/wiki/Contribution-guideline) 에서 확인하실 수 있습니다.  
+Age_Friendly_City 저장소로의 기여에 관한 모든 가이드라인 위키 페이지 - ['기여 가이드라인'](https://github.com/pwjdgus/Age_Friendly_City/wiki/Contribution-guideline) 에서 확인하실 수 있습니다.  
 All guidelines for contributing to the Age_Friendly_City repository can be found at Wiki Page - [`Contributing Guidelines`](https://github.com/pwjdgus/Age_Friendly_City/wiki/Contribution-guideline).
