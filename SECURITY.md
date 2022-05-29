@@ -15,7 +15,7 @@ make every effort to acknowledge your contributions.
 
 Report security vulnerabilities by either emailing Age_Friendly_City OSS security team at:
     
-    https://github.com/pwjdgus // 수정필요
+    https://github.com/pwjdgus
 
 or leaving your issue in the Issues section.
 The lead maintainer will acknowledge your email within 24 hours, and will
