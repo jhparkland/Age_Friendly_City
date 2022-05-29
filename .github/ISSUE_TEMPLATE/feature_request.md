@@ -8,6 +8,4 @@ assignees: ''
 ---
 
 **Description**
-```
 설명
-```
